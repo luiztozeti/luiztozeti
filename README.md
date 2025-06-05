@@ -21,15 +21,7 @@
 - **JavaScript** 
 - **HTML5** 
 - **CSS3**
-
----
-
-## 🎯 O que estou aprendendo
-
-- **Lógica de programação** 
-- **Estruturas de dados**
-- **Algoritmos**
-- **Desenvolvimento Web**
+- **Python**
 
 ---
 
@@ -37,7 +29,7 @@
 
 Confira alguns dos meus projetos no meu GitHub!
 
-### Ainda em processo... 😢
+### 
 ---
 
 ## 📬 Contato
