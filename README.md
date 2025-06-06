@@ -28,6 +28,8 @@
 ## 🚀 Projetos
 
 Confira alguns dos meus projetos no meu GitHub!
+
+automação de cadastros em Python:
 https://github.com/luiztozeti/automacaoodecadastro
 
 ### 
