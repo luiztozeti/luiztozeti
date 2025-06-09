@@ -30,8 +30,16 @@
 
 Confira alguns dos meus projetos no meu GitHub!
 
-automação de cadastros em Python:
+Automação de cadastros:
 https://github.com/luiztozeti/automacaoodecadastro
+
+
+Previsão de score com IA:
+https://github.com/luiztozeti/Score-Clientes-IA
+
+
+Análise de Cancelamento de Clientes com Python:
+https://github.com/luiztozeti/Python-Insights---Analisando-Dados-com-Python
 
 ### 
 ---
